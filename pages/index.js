@@ -26,6 +26,7 @@ export async function getStaticProps() {
       width: cardWidth,
       height: cardHeight,
       border: `${cardFrameSize}px_solid_rgb:1C80CD`,
+      secure: true,
       transformation: [
         {
           fetch_format: 'auto',
