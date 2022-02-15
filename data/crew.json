@@ -1,0 +1,102 @@
+{
+  "allegiances": [
+    {
+      "id": "mario",
+      "name": "Mario",
+      "image": "https://i.imgur.com/Xw6oMc4.jpeg"
+    },
+    {
+      "id": "bowser",
+      "name": "Bowser",
+      "image": "https://i.imgur.com/3VrSiYk.jpeg"
+    }
+  ],
+  "members": [
+    {
+      "id": "hammer-bro",
+      "name": "Hammer Bro",
+      "image": "https://i.imgur.com/ffpbUs0.jpeg",
+      "date": "Unknown",
+      "bio": "One half of the deadly twosome, the Hammer Bros. from Super Mario Bros fame. They jump from platform to platform in a seemingly random pattern throwing goshdarn hammers!",
+      "firstAppeared": "Super Mario Bros.",
+      "aliases": [],
+      "allegiance": "bowser"
+    },
+    {
+      "id": "lakitu",
+      "name": "Lakitu",
+      "image": "https://i.imgur.com/zzDjgQa.jpeg",
+      "date": "Unknown",
+      "bio": "Lakitu has appeared in a variety of Mario games; from Super Mario Bros on the NES right up to Mario Kart 7. He is responsible for dropping Spinies onto the levels below.",
+      "firstAppeared": "Super Mario Bros.",
+      "aliases": [
+        "Jugem"
+      ],
+      "allegiance": "bowser"
+    },
+    {
+      "id": "toad",
+      "name": "Toad",
+      "image": "https://i.imgur.com/nl7JNhl.jpeg",
+      "date": "Unknown",
+      "bio": "The Toad is a member of the Toad species. He is a  loyal attendant of Princess Peach and often assists Mario on his journeys in a variety of ways.",
+      "firstAppeared": "Super Mario Bros.",
+      "aliases": [],
+      "allegiance": "mario"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "image": "https://i.imgur.com/M8ruTy6.jpeg",
+      "date": "Unknown",
+      "bio": "Princess Peach Toadstool is usually the damsel in distress from the Mario franchise. She gets kidnapped frequently by Bowser.",
+      "firstAppeared": "QIX",
+      "aliases": [
+        "Princess Toadstool",
+        "Baby Peach"
+      ],
+      "allegiance": "mario"
+    },
+    {
+      "id": "luigi",
+      "name": "Luigi",
+      "image": "https://i.imgur.com/DbSEyj3.jpeg",
+      "date": "Uknown",
+      "bio": "Luigi is Mario's brother.  He began as a simple palette swap of Mario, but was later differentiated. In his later forays, he provides comic relief.",
+      "firstAppeared": "QIX",
+      "aliases": [
+        "Mr. L",
+        "Baby Luigi",
+        "Luigi Mario"
+      ],
+      "allegiance": "mario"
+    },
+    {
+      "id": "bowser",
+      "name": "Bowser",
+      "image": "https://i.imgur.com/peNHczU.jpeg",
+      "date": "October 1, 1985",
+      "bio": "Bowser is one of the most iconic villains in gaming. His role as the main male  antagonist in the Mario franchise has cemented this King of Koopas' status in video game history.",
+      "firstAppeared": "F-1 Race",
+      "aliases": [
+        "King Koopa",
+        "Giga Bowser",
+        "King Bowser"
+      ],
+      "allegiance": "bowser"
+    },
+    {
+      "id": "mario",
+      "name": "Mario",
+      "image": "https://i.imgur.com/Pk7Qp7Q.jpeg",
+      "date": "June 2, 1981",
+      "bio": "Originally a carpenter named Jumpman, this Italian plumber has gone on to become the most recognizable video game character of them all.",
+      "firstAppeared": "Donkey Kong",
+      "aliases": [
+        "Jumpman",
+        "Baby Mario"
+      ],
+      "allegiance": "mario"
+    }
+  ]
+}
