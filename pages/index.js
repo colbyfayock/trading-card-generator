@@ -277,7 +277,7 @@ export default function Home({ cards }) {
 
         <div className={styles.grid}>
           {cards.map(card => {
-            return <img key={card} key={card} src={card} alt="" />
+            return <img key={card} src={card} alt="" />
           })}
         </div>
       </main>
